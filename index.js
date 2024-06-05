@@ -23,7 +23,7 @@ let fizzBuzz = () => {
   }
 };
 
-// console.log(fizzBuzz());
+console.log(fizzBuzz());
 
 // Part 2: Prime Time
 // Now we will move onto something slightly more complex.
